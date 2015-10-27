@@ -5,8 +5,7 @@
   "author": "Jonathan Brumley <cayasso@gmail.com>",
   "main": "./node/index",
   "scripts": {
-    "test": "make test",
-    "postinstall": "make"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
